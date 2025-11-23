@@ -1,112 +1,84 @@
-<h1 align="center">Hi, I'm Abdul-Qudoos👋</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer|cyber Security Analysist</h3>
+<h1 align="center">Hi, I'm Abdul-Qudoos 👋</h1>
+<h3 align="center">Flutter Developer | Mobile App Engineer | Cyber Security Analyst</h3>
 
 <p align="center">
-  I build mobile apps with clean UI, stable architecture, and real-world functionality.  
-  I focus on Flutter, backend APIs, Firebase, and integrations that make apps actually useful.
+  I craft mobile apps with clean UI, stable architecture, and real-world functionality.  
+  Focused on Flutter, backend APIs, and Firebase to make apps truly useful.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I build full-stack mobile apps using **Flutter, Firebase**
-- 🧱 I follow proper structure & traditional software practices — clean, readable code > messy shortcuts
-- 📱 Skilled in state management (Bloc, GetX, Provider)
-- 🔥 Comfortable with backend development + API integrations
-- 🎯 Goal: Build scalable apps, grow independently, and sharpen my engineering skills
+- 🔭 Building full-stack mobile apps using **Flutter & Firebase**
+- 🧱 Following clean code principles & traditional software practices
+- 📱 Skilled in state management: Bloc, GetX, Provider
+- 🔥 Comfortable with backend development & API integrations
+- 🎯 Goal: Build scalable apps, grow independently, sharpen my skills
 - 💬 Ask me about: Flutter, REST APIs, Firebase Auth, Clean Architecture, App Deployment
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Mobile Development**
-- Flutter  
-- Dart  
-- Bloc, GetX, Provider  
-- Clean Architecture, MVVM  
-
-### **Backend**
-- Node.js  
-- Express  
-- Firebase  
-- MySQL  
-- PHP
-- SQL
-- Django 
-
-### **Web Essentials**
-- HTML  
-- CSS  
-- JavaScript
-
-### **Development Tools**
-- Android Studio
-- Flutter
-- Visual Studio Code
-- Visual Studio
-- Dev-C++  
-
-### **Other**
-- Git & GitHub  
-- REST APIs  
-- Authentication  
-- Cloud Messaging  
+**Mobile Development:** Flutter, Dart, Bloc, GetX, Provider, MVVM, Clean Architecture  
+**Backend:** Node.js, Express, Firebase, MySQL, PHP, SQL, Django  
+**Web Essentials:** HTML, CSS, JavaScript  
+**Development Tools:** Android Studio, VS Code, Visual Studio, Dev-C++  
+**Other:** Git & GitHub, REST APIs, Authentication, Cloud Messaging  
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 **Cerebro care by enhanced ML**
-A web application is designed to detect, classify, and segment brain tumors using advanced deep learning models.
-It leverages a combination of UNET for precise image segmentation and Inception V3 for high-accuracy tumor classification.
+### 🔹 Cerebro Care (ML-powered)
+A web app detecting, classifying, and segmenting brain tumors using deep learning (UNET + InceptionV3).
 
-### 🔹 **Tutor Connect System**
-A full-stack education management app with role-based authentication and admin-level features.
+### 🔹 Tutor-Connect System
+Full-stack education management app with role-based authentication and admin features.
 
-### 🔹 **Weather App**
-A clean weather forecasting app using API data + Google Maps.
+### 🔹 Weather App
+Clean weather forecasting app with API data and Google Maps integration.
 
-### 🔹 **Bakery App**
-A shop management app where users browse, select items, and manage cart/order features.
+### 🔹 Bakery App
+Shop management app with browsing, cart, and order features.
 
-### 🔹 **Bloc Architecture App**
-A complete app showing Bloc usage for scalable state management.
+### 🔹 Notes App
+Showcasing Bloc for scalable state management.
 
-### 🔹 **Quran App**
-A beautiful Quran reading app with peaceful UI and smooth navigation.
+### 🔹 Quran App
+Beautiful Quran reading app with smooth navigation.
 
 ---
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Ahmerkh/tutor-connect-system-web-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkh&repo=tutor-connect-system-web-project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ahmerkh/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkh&repo=weather-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ahmerkh/bakery-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkh&repo=bakery-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ahmerkh/quran-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkh&repo=quran-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ahmerkh/bloc-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkh&repo=bloc-app&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/Ahmerkha/Cerebro-care-by-enhances-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Cerebro-care-by-enhanced-ML&theme=dark" />
+  </a>
+  <a href="https://github.com/Ahmerkha/tutor-connect-system-web-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=tutor-connect-system-web-app&theme=dark" />
+  </a>
+  <a href="https://github.com/Ahmerkha/Weather_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Weather_app&theme=dark" />
+  </a>
+  <a href="https://github.com/Ahmerkha/Bakery-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Bakery-app&theme=dark" />
+  </a>
+  <a href="https://github.com/Ahmerkha/Quran-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Quran-App&theme=dark" />
+  </a>
+  <a href="https://github.com/Ahmerkha/Notes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Notes-App&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmerkh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmerkh&layout=compact&theme=dark" />
 </p>
 
 ---

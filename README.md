@@ -53,7 +53,7 @@ Beautiful Quran reading app with smooth navigation.
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/Ahmerkha/Cerebro-care-by-enhances-ML">
+  <a href="https://github.com/Ahmerkha/Cerebro-care-by-enhanced-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Cerebro-care-by-enhanced-ML&theme=dark" />
   </a>
   <a href="https://github.com/Ahmerkha/tutor-connect-system-web-project">

@@ -56,7 +56,7 @@ Beautiful Quran reading app with smooth navigation.
   <a href="https://github.com/Ahmerkha/Cerebro-care-by-enhanced-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Cerebro-care-by-enhanced-ML&theme=dark" />
   </a>
-  <a href="https://github.com/Ahmerkha/tutor-connect-system-web-project">
+  <a href="https://github.com/Ahmerkha/tutor-connect-system-web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=tutor-connect-system-web-app&theme=dark" />
   </a>
   <a href="https://github.com/Ahmerkha/Weather_app">

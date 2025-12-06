@@ -33,6 +33,9 @@
 ### 🔹 Cerebro Care (ML-powered)
 A web app detecting, classifying, and segmenting brain tumors using deep learning (UNET + InceptionV3).
 
+### 🔹 Firstaid-Managment-System
+A system designed to record , track and manage medical incidents within an organization.
+
 ### 🔹 Tutor-Connect System
 Full-stack education management app with role-based authentication and admin features.
 

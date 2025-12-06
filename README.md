@@ -54,22 +54,32 @@ Beautiful Quran reading app with smooth navigation.
 
 <p align="center">
   <a href="https://github.com/Ahmerkha/Cerebro-care-by-enhanced-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Cerebro-care-by-enhanced-ML&theme=dark" />
+    <img src="https://img.shields.io/badge/Cerebro_Care-ML-blue?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahmerkha/tutor-connect-system-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=tutor-connect-system-web-app&theme=dark" />
+    <img src="https://img.shields.io/badge/Tutor_Connect_System-green?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahmerkha/Weather_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Weather_app&theme=dark" />
+    <img src="https://img.shields.io/badge/Weather_App-lightblue?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahmerkha/Bakery-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Bakery-app&theme=dark" />
+    <img src="https://img.shields.io/badge/Bakery_App-orange?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahmerkha/Quran-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Quran-App&theme=dark" />
+    <img src="https://img.shields.io/badge/Quran_App-red?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahmerkha/Notes-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmerkha&repo=Notes-App&theme=dark" />
+    <img src="https://img.shields.io/badge/Notes_App-purple?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🟦 Main Language
+
+<p align="center">
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Language-Dart-blue?style=for-the-badge&logo=dart" alt="Dart Badge"/>
   </a>
 </p>
 
@@ -78,7 +88,7 @@ Beautiful Quran reading app with smooth navigation.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmerkh&layout=compact&theme=dark" />
+  <img src="https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/languages.svg" />
 </p>
 
 ---
@@ -92,4 +102,4 @@ Beautiful Quran reading app with smooth navigation.
 ---
 
 ## 🤝 Let’s Connect
-**GitHub:** @Ahmerkh
+**GitHub:** @Ahmerkha

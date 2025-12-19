@@ -1,34 +1,67 @@
-<h1 align="center">Hi, I'm Abdul-Qudoos 👋</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer | Cyber Security Analyst</h3>
+<h1 align="center">Hi, I'm Abdul Qudoos 👋</h1>
+<h3 align="center">
+Cybersecurity Analyst | SOC Enthusiast | Flutter Developer
+</h3>
 
 <p align="center">
-  I craft mobile apps with clean UI, stable architecture, and real-world functionality.  
-  Focused on Flutter, backend APIs, and Firebase to make apps truly useful.
+I am a security-focused technologist with hands-on experience in 
+<strong>log analysis, threat detection, and defensive security</strong>, 
+alongside strong expertise in <strong>Flutter-based application development</strong>.
+My current focus is on <strong>SOC operations, Linux security, and Python-based detection</strong>.
 </p>
 
 ---
+🚀 About Me
 
-## 🚀 About Me
-- 🔭 Building full-stack mobile apps using **Flutter & Firebase**
-- 🧱 Following clean code principles & traditional software practices
-- 📱 Skilled in state management: Bloc, GetX, Provider
-- 🔥 Comfortable with backend development & API integrations
-- 🎯 Goal: Build scalable apps, grow independently, sharpen my skills
-- 💬 Ask me about: Flutter, REST APIs, Firebase Auth, Clean Architecture, App Deployment
+🛡️ Building cybersecurity labs on Kali Linux (log analysis, SSH attack detection, SOC-style monitoring)
 
+🔭 Developing full-stack mobile applications using Flutter & Firebase
+
+🧱 Applying clean code principles, secure coding practices, and traditional software engineering
+
+📱 Experienced with state management: Bloc, GetX, Provider
+
+🔥 Comfortable with backend development, API integrations, and authentication flows
+
+🔍 Actively learning SOC operations, Linux security, and threat detection
+
+🎯 Goal: Become a Cybersecurity Analyst / SOC Engineer while building secure, scalable applications
+
+💬 Ask me about: Kali Linux, Log Analysis, Python Security Scripts, Flutter, REST APIs, Firebase Auth
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
+🔐 Cybersecurity & SOC
 
-**Mobile Development:** Flutter, Dart, Bloc, GetX, Provider, MVVM, Clean Architecture  
-**Backend:** Node.js, Express, Firebase, MySQL, PHP, SQL, Django  
-**Web Essentials:** HTML, CSS, JavaScript  
-**Development Tools:** Android Studio, VS Code, Visual Studio, Dev-C++  
-**Other:** Git & GitHub, REST APIs, Authentication, Cloud Messaging  
+Kali Linux
+
+Linux Authentication Logs (auth.log)
+
+SSH Brute-Force Detection
+
+Log Analysis & Alerting
+
+Fail2Ban (Mitigation)
+
+Basic Incident Response
+
+Blue Team Fundamentals
+
+🐍 Programming & Scripting
+
+Python (Security Automation, Log Parsing)
+
+Bash (Linux Monitoring & Commands)
+
+📱 Mobile Development
+
+Flutter, Dart, Bloc, GetX, Provider, MVVM, Clean Architecture
 
 ---
 
 ## ⭐ Featured Projects
+### 🔹 SSH Brute-Force Detection Using Log Analysis (Kali Linux)
+Python-based SOC project for detecting suspicious SSH brute-force attacks through Linux authentication log analysis, alerting, and mitigation using Fail2Ban.
 
 ### 🔹 Cerebro Care (ML-powered)
 A web app detecting, classifying, and segmenting brain tumors using deep learning (UNET + InceptionV3).
